@@ -25,7 +25,6 @@ A simple browser game built using HTML, CSS, and JavaScript.
 - HTML5
 - CSS3
 - Javascript
-- Bootstrap
 
 # Screenshots
 
