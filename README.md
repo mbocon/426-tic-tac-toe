@@ -32,7 +32,7 @@ A simple browser game built using HTML, CSS, and JavaScript.
 
 # Getting Started
 
-[Click here](www.google.com) to play tic tac toe!
+[Click here](https://sage-sfogliatella-5372fa.netlify.app/) to play tic tac toe!
 
 # Future Enhancements
 
